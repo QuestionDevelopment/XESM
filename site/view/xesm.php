@@ -1,0 +1,1 @@
+Xesm : Custom created pages ($Page->data["content"] has value)
