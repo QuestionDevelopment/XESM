@@ -7,7 +7,7 @@ A light weight, powerful CMS for PHP developers.
 * [Coding Standards](https://github.com/QuestionDevelopment/XESM/wiki/Coding-Standards)
 * [Database Standards](https://github.com/QuestionDevelopment/XESM/wiki/Database-Standards)
 
-To learn more please - (click here)[https://github.com/QuestionDevelopment/XESM/wiki] - to read our wiki
+To learn more please - [click here](https://github.com/QuestionDevelopment/XESM/wiki) - to read our wiki
 
 Feel free to contact the developer @ admin@xesm.com
 
