@@ -1,7 +1,14 @@
 #XESM
 
-A PHP CMS for developers.
+A light weight, powerful CMS for PHP developers.
 
-To learn more please contact the developer @ admin@xesm.com
+* [Overview](https://github.com/QuestionDevelopment/XESM/wiki/Overview)
+* [Directory Structure](https://github.com/QuestionDevelopment/XESM/wiki/Directory-Structure)
+* [Coding Standards](https://github.com/QuestionDevelopment/XESM/wiki/Coding-Standards)
+* [Database Standards](https://github.com/QuestionDevelopment/XESM/wiki/Database-Standards)
+
+To learn more please - (click here)[https://github.com/QuestionDevelopment/XESM/wiki] - to read our wiki
+
+Feel free to contact the developer @ admin@xesm.com
 
 
